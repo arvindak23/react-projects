@@ -1,0 +1,30 @@
+{
+  "name": "project1",
+  "version": "1.0.0",
+  "description": "This is Ignite React Project by Arvind",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arvindak23/my-react-projects.git"
+  },
+  "author": "Arvind Kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arvindak23/my-react-projects/issues"
+  },
+  "homepage": "https://github.com/arvindak23/my-react-projects#readme",
+  "devDependencies": {
+    "parcel": "^2.16.3"
+  },
+  "dependencies": {
+    "react": "^19.2.3",
+    "react-dom": "^19.2.3"
+  },
+  "broswerlist":[
+    "last 2 version"
+  ]
+}
